@@ -1,5 +1,5 @@
 # KickbaseAutoOffer
-Short quick script for automatically making an offer to trending players in market
+Short quick script for the mobile soccor manager game Kickbase, automatically making an offer to trending players in market.
 **Only use this for your personal learning, you should not use it for anything else!**
 
 ## Introduction
